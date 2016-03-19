@@ -5,6 +5,7 @@
     {"name": "clanName", "type": "STRING"},
     {"name": "badge", "type": "INT"},
     {"type": "INT"},
-    {"name": "rank", "type": "INT"}
+    {"name": "rank", "type": "INT"},    
+    {"name": "league", "type": "?LONG"}
   ]
 }

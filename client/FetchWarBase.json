@@ -4,6 +4,7 @@
   "fields" : [
     {"name" : "homeId", "type" : "LONG"},
     {"type" : "INT"},
-    {"name" : "warId", "type" : "?LONG"}
+    {"name" : "warId", "type" : "?LONG"},
+    {"type" : "INT"}
   ]
 }

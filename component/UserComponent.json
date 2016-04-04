@@ -5,7 +5,6 @@
     {"name": "userId", "type": "LONG"},
     {"name": "homeId", "type": "LONG"},
     {"name": "clan", "type": "?ClanComponent"},
-    {"name": "league", "type": "?LONG"},
     {"name": "legendTrophies", "type": "INT"},
     {"name": "bestSeasonEnabled", "type": "INT"},
     {"name": "bestSeasonMonth", "type": "INT"},
